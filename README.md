@@ -20,7 +20,7 @@ pip install recbole
 
 ### Running Example：
 
-You can see the recommended results by running the trained model in the [case_study.py](./case_study.py) file. Because the model file is too large, please download the saved models and unzip them in saved folder from [link](https://figshare.com/s/899e39b2bee3d4a042c4) before running. And switch the recommended model by changing the "model_file" configuration.
+You can see the recommended results by running the trained model in the [case_study.py](./case_study.py) file. Because the model file is too large, please download the saved models and unzip them in "./saved" folder from [link](https://figshare.com/s/899e39b2bee3d4a042c4) before running. And switch the recommended model by changing the "model_file" configuration.
 
 You can see how groups of items with different exposures contribute to Recall in the [long-tail-validation.py](./case_study/long-tail-validation.py) file.
 
