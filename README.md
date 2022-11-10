@@ -26,7 +26,7 @@ You can see how groups of items with different exposures contribute to Recall in
 
 ### Dataset
 
-Because the datasets are too large, so we do not include them in the code. All datasets are available on [github](https://github.com/RUCAIBox/RecSysDatasets). Please download datasets before running. A more detailed description can be found in [README_RecBole.md](.\README_RecBole.md).
+Because the datasets are too large, so we do not include them in the source code. All datasets are available on [github](https://github.com/RUCAIBox/RecSysDatasets). Please download datasets before running. A more detailed description can be found in [README_RecBole.md](.\README_RecBole.md).
 
 ### Model Training：
 
