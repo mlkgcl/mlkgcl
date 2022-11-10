@@ -41,7 +41,7 @@ The specific implementation of the model can be found in the [mlkgcl.py](./recbo
 
  ##### Configuration File：
 
-You can modify the configuration file [mlkgcl.yaml](./mlkgcl.yaml) and [start file](./run_mlkgcl.py) to set different hyperparameters and switch datasets.
+You can modify the configuration file [mlkgcl.yaml](./mlkgcl.yaml) and [run_mlkgcl.py](./run_mlkgcl.py) to set different hyperparameters and switch datasets.
 
 ### RecBole Cite：
 > @article{recbole,
